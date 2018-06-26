@@ -37,10 +37,3 @@ EX. Given P(A) = 2/5 and P(B) = 4/5 and P(A ∪ B) = 3/5
     P(R ∩ R ∩ B) = P(R, R, B) + P(R, B ,R) + P(B, R, R)
                  = 4/7 * 5/9 * 4/8 + 4/7 * 4/9 * 4/8 + 3/7 * 5/9 * 4/8 = 204/504 = 17/42
 
-
-### Day 3: Permutations and Combinations
-
-Permutations - Ordered arrangement of r objects from a set n
-```nPr = n! / (n-r)!```
-Combinations - Unordered arrangement of r objects from a set n
-```nCr = nPr/n! = n! / n!(n-r)!```
